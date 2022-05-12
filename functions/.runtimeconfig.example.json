@@ -1,0 +1,9 @@
+{
+  "database": {
+    "host": "db.vxtwcsepfdowoidcnrou.supabase.co",
+    "port": 6543,
+    "username": "postgres",
+    "password": "",
+    "database": "postgres"
+  }
+}
